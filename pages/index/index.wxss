@@ -1,0 +1,8 @@
+h1 {
+  font-size: 20px;
+  margin-bottom: 50rpx;
+}
+.container > .button {
+  width: 90%;
+  margin-bottom: 10rpx;
+}

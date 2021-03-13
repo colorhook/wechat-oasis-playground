@@ -1,0 +1,6 @@
+<view class="container">
+  <canvas type="webgl" id="canvas" disable-scroll="true"
+  bindtouchstart="onTouchStart"
+  bindtouchmove="onTouchMove"
+  bindtouchend="onTouchEnd"></canvas>
+</view>

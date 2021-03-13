@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <h1>Oasis Engine Playground</h1>
+  <button type="default" plain="true" class="button" data-url="../pbr/pbr" bindtap="goto">PBR 材质</button>
+  <button type="default" plain="true" class="button" data-url="../skeleton/skeleton" bindtap="goto">骨骼动画</button>
+  <button type="default" plain="true" class="button" data-url="../spotlight/spotlight" bindtap="goto">聚光灯</button>
+  <button type="default" plain="true" class="button" data-url="../sprite/sprite" bindtap="goto">粒子渲染器精灵图</button>
+  <button type="default" plain="true" class="button" data-url="../geometry/geometry" bindtap="goto">自定义几何体</button>
+  <button type="default" plain="true" class="button" data-url="../water/water" bindtap="goto">自定义材质-水</button>
+</view>
